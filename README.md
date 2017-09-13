@@ -1,10 +1,10 @@
 # Internet-Technology
  
-Project: 
-Input two images in the form of text files that contain their pixel values in hexadecimal format 
-gspic: Green screen picture. 
-bkpic: Background picture. 
-Print output that changes only the green part of gspic to the bkpic. 
+Project: <br />
+Input two images in the form of text files that contain their pixel values in hexadecimal format <br />
+gspic: Green screen picture. <br />
+bkpic: Background picture. <br />
+Print output that changes only the green part of gspic to the bkpic. <br />
 
 greenred.png - input image which has green and red pixels (i.e. to be treated as the greenscreen picture)
 blue.png - input image which has blue pixels (i.e. to be treated as the the background picture)
