@@ -1,5 +1,5 @@
 # Internet-Technology
-
+ 
 Project:
 Input two images in the form of text files that contain their pixel values in hexadecimal format
 gspic: Green screen picture.
